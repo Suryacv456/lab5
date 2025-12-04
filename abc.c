@@ -1,7 +1,9 @@
 #include<stdio.h>
-main()
+ int main()
 {
   push();
-    pop();
-    display();
+  pop();
+  display();
+  return 0;
+  
 }
